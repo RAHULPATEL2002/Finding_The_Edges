@@ -41,19 +41,19 @@ This MATLAB script performs the following tasks:
 ## Example Results
 
 ### Grayscale Image
-![Screenshot 2025-01-19 160613](https://github.com/user-attachments/assets/7d3425b5-b3b2-4920-a98f-04927bdd381e)
+                                                ![Screenshot 2025-01-19 160613](https://github.com/user-attachments/assets/7d3425b5-b3b2-4920-a98f-04927bdd381e)
 
 
 ### Prewitt Edge Detection
-![Screenshot 2025-01-19 160638](https://github.com/user-attachments/assets/a5a04f62-6b31-4c34-81d6-2a54f2933944)
+                                             ![Screenshot 2025-01-19 160638](https://github.com/user-attachments/assets/a5a04f62-6b31-4c34-81d6-2a54f2933944)
 
 
 ### Sobel Edge Detection
-![Screenshot 2025-01-19 160647](https://github.com/user-attachments/assets/21d49a8b-d514-4812-b9f9-cde8259cb24f)
+                                                ![Screenshot 2025-01-19 160647](https://github.com/user-attachments/assets/21d49a8b-d514-4812-b9f9-cde8259cb24f)
 
 
 ### Smoothed Sobel Edge Detection
-![Screenshot 2025-01-19 160701](https://github.com/user-attachments/assets/3c27b738-2489-4a3b-8197-9f0e609ef162)
+                                             ![Screenshot 2025-01-19 160701](https://github.com/user-attachments/assets/3c27b738-2489-4a3b-8197-9f0e609ef162)
 
 
 ---
