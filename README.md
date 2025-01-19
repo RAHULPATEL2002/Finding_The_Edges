@@ -1,4 +1,4 @@
-# LAB:07 Finding the Edges
+Finding the Edges
 
 ## AIM
 For a color image, convert RGB to Grayscale and find the edges using the following operators:
